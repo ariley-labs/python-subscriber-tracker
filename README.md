@@ -13,6 +13,10 @@ This project was created to practice Python fundamentals, GUI development, user 
 - Validate user input to prevent negative numbers and invalid entries.
 - Display helpful error messages for invalid input.
 
+## Application Screenshot
+
+![Subscriber Tracker Application](images/subscriber-tracker.png)
+
 ## Technologies Used
 
 - **Python 3** — Core programming language.
